@@ -28,15 +28,20 @@ The following questions were answered based on how the data was transformed:
 ## Data Transformation
 
 The dataset came really messy and required a good time of data transformation.
-All the cleaning was done on Power BI but was importing as a CSV file. 
+It has 28 columns and 630 rows.
+All the cleaning was done on Power Query but was imported as a CSV file. 
 The following issues:
 - Missing values
-- Data redundabcy
+- Data redundancy
 - Inconsistencies
 - Empty columns
+![](Empty_cells_for.JPG) 
 - Inaccurate entries
+I renamed a few column headers as they were too long and entries were inapporpriate.
+Split some columns by delimiter to remove entries that would not be used for the analysis.
+ 
 
-## Skills/Concept documented
+## Skills/Concepts used
 
 To get some columns for visualization and storytelling, I created new measures.
 used DAX, and filters.
@@ -48,6 +53,12 @@ No modelling was done in this project as there was just one table.
 ![](Data_Professional_survey.JPG)
 
 From the dashboard, we see that
-- There were 630 total respondents that filled the survey with a whooping 74% male and 24% female respondents - *This is a call for more women into the data profession.😀*
-- 
+1. There were 630 total respondents that filled the survey with a whooping 74% male and 24% female respondents - *This is a call for more women into the data profession.😀*
+2. The average age of respondents, when rounded up is 30 years.
+3. Some people are not happy with their current salary because it shows a scale of below 5.
+4. A little above 5 for the work/life balance happiness.
+5. Most of the population is from the United States with 261 respondents.
+6. Most professionals found it neither difficult nor easy to penetrate into the space.
+7. It is quite amazing to see that Python is the most loved programming languauge.
+8. The highest paid job title is the **Data Scientist**...🤯🤯
 

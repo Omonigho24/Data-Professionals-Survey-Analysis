@@ -40,3 +40,11 @@ The following issues:
 
 To get some columns for visualization and storytelling, I created new measures.
 used DAX, and filters.
+
+## Data Modelling
+No modelling was done in this project as there was just one table.
+
+## Analysis and Visualization
+![](Data_Professional_survey.JPG)
+
+

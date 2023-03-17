@@ -35,3 +35,8 @@ The following issues:
 - Inconsistencies
 - Empty columns
 - Inaccurate entries
+
+## Skills/Concept documented
+
+To get some columns for visualization and storytelling, I created new measures.
+used DAX, and filters.

@@ -1,5 +1,5 @@
 # Data-Professionals-Survey-Analysis
-![](data_profession_image.png)
+![](Data_woman.jpg)
 
 ## Introduction
 

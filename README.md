@@ -73,7 +73,9 @@ From the dashboard, we see that
 - The percentage of women in the data space is really minute and women need to come into the space a whole lot more.
 - Most professionals do not consider SQL as a programming language, I find this to be bias because every role in the data space cannot exactly to some extent, survive without SQL. There were a few SQL entries from the dataset but it was identified as "Others".
 
+![](courtney-hedger-t48eHCSCnds-unsplash.jpg)
 
+#### Thank you for reading through!👊🏽🤝🏽
 
 
 

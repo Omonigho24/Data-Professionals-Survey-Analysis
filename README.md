@@ -3,10 +3,24 @@
 
 ## Introduction
 
-This project shows the various attributes of careers in the data space ranging from Data Analyst, Data Engineers, Data Architect, and many more. I hope you enjoy going through this project as much as I did working on it. 😊✨
+This project shows the various attributes of careers in the data space ranging from Data Analyst, Data Engineers, Data Architect, and many more. 
+There have been lots of bants in the data community about which of the data roles is overriding and I find it interesting everytime I pump on those conversations.
+The goal is to use this dataset to answer some questions.
+I hope you enjoy going through this project as much as I did working on it. 😊✨
+
+*N.B: this project does not give an exhaustive or definite analysis. Region, and company can be a factor to vary from the findings we have here.*
 
 ## Data Sourcing
 
 The dataset was gotten from Alex the Analysts YouTube video and is linked [here](https://github.com/AlexTheAnalyst/Power-BI).
 Alex explained that he got the *real-life* data from professionals in the data space using a survey.
 
+## Problem Statement
+The following questions were answered based on how the data was transformed:
+
+1. The job title with the highest salary - (My favourite part😁)
+2. Gender with the highest respondent - (yeah, you guessed right😎)
+3. Country of resident of respondents
+4. Favourite programming language
+5. Difficulty to break into the space
+6. Level of happiness with Salary and Work/life balance.

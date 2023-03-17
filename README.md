@@ -67,7 +67,13 @@ From the dashboard, we see that
 8. The highest paid job title is the **Data Scientist**...🤯🤯
 
 
-# Final Thoughts🧨
+## Final Thoughts🧨
+
+- Data professionals are not exactly happy with their salary and truth is they do a whole lot of work. I stronngly suggest that increment of salary is of importance.
+- The percentage of women in the data space is really minute and women need to come into the space a whole lot more.
+- Most professionals do not consider SQL as a programming language, I find this to be bias because every role in the data space cannot exactly to some extent, survive without SQL. There were a few SQL entries from the dataset but it was identified as "Others".
+
+
 
 
 

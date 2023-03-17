@@ -35,7 +35,11 @@ The following issues:
 - Data redundancy
 - Inconsistencies
 - Empty columns
-![](Empty_cells_for.JPG) 
+
+
+Empty columns            |   Column headers
+:-----------------------:|:-----------------:
+![](Empty_cells_for.JPG)   | ![](Rename_headers.JPG)
 - Inaccurate entries
 I renamed a few column headers as they were too long and entries were inapporpriate.
 Split some columns by delimiter to remove entries that would not be used for the analysis.
@@ -61,4 +65,9 @@ From the dashboard, we see that
 6. Most professionals found it neither difficult nor easy to penetrate into the space.
 7. It is quite amazing to see that Python is the most loved programming languauge.
 8. The highest paid job title is the **Data Scientist**...🤯🤯
+
+
+# Final Thoughts🧨
+
+
 

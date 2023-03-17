@@ -47,4 +47,7 @@ No modelling was done in this project as there was just one table.
 ## Analysis and Visualization
 ![](Data_Professional_survey.JPG)
 
+From the dashboard, we see that
+- There were 630 total respondents that filled the survey with a whooping 74% male and 24% female respondents - *This is a call for more women into the data profession.😀*
+- 
 

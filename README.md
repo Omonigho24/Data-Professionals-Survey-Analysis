@@ -24,3 +24,14 @@ The following questions were answered based on how the data was transformed:
 4. Favourite programming language
 5. Difficulty to break into the space
 6. Level of happiness with Salary and Work/life balance.
+
+## Data Transformation
+
+The dataset came really messy and required a good time of data transformation.
+All the cleaning was done on Power BI but was importing as a CSV file. 
+The following issues:
+- Missing values
+- Data redundabcy
+- Inconsistencies
+- Empty columns
+- Inaccurate entries

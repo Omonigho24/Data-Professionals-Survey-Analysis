@@ -54,7 +54,7 @@ used DAX, and filters.
 No modelling was done in this project as there was just one table.
 
 ## Analysis and Visualization
-![](Data_Professional_survey.JPG)
+![](New_dashboard.JPG)
 
 From the dashboard, we see that
 1. There were 630 total respondents that filled the survey with a whooping 74% male and 24% female respondents - *This is a call for more women into the data profession.😀*
@@ -69,7 +69,7 @@ From the dashboard, we see that
 
 ## Final Thoughts🧨
 
-- Data professionals are not exactly happy with their salary and truth is they do a whole lot of work. I stronngly suggest that increment of salary is of importance.
+- Data professionals are not exactly happy with their salary and truth is they do a whole lot of work. I strongly suggest that increment of salary is of importance.
 - The percentage of women in the data space is really minute and women need to come into the space a whole lot more.
 - Most professionals do not consider SQL as a programming language, I find this to be bias because every role in the data space cannot exactly to some extent, survive without SQL. There were a few SQL entries from the dataset but it was identified as "Others".
 
